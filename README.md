@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋 I'm Nicolai
 
-<!--
-**nicolste1/nicolste1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second year Computer Science student at the **Norwegian University of Science and Technology (NTNU)**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 My Focus
+- **Machine Learning Pipelines:** Processing raw information into actionable insights.
+
+---
+
+### 🛠 My Projects
+
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| **Neural Network from Scratch** | A C++ implementation to classify MNIST digits, built to understand backpropagation and network architecture. | C++ |
+| **ML Pipeline Project** | Developed four pipelines covering data preprocessing, feature extraction, and model evaluation. | Python |
+---
