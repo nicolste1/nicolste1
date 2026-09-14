@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Nicolai
 
-I am a second year Computer Science student at the **Norwegian University of Science and Technology (NTNU)**. 
+I am a third year Computer Science student at the **Norwegian University of Science and Technology (NTNU)**. 
 
 ---
 
